@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "changed2 QA APIs "
+  message: "changed3 QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
